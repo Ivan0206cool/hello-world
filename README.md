@@ -1,6 +1,6 @@
 git command
 ----------------------------------------------------------
-1. git cofig --list (git config -l) 檢視所有測定內容
+1. git cofig --list (git config -l) 檢視所有設定內容
 2. git config user.name 檢視使用者設定名稱
 3. git config user.email檢視使用者設定信箱
 4. git init 初始化 (建立.git隱藏資料夾並相關設定檔案)
